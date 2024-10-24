@@ -1,0 +1,26 @@
+* {
+  font-family: sans-serif;
+}
+body {
+  background-color: linear-gradient(to right, rgb(255, 120, 1), rgb(219,45, 238));
+}
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+.image {
+  border: 5px solid white;
+  width: 100%;
+}
+h1 {
+  text-transform: uppercase;
+  color: white;
+  font-size: 3rem;
+}
+p {
+  color: white;
+}
